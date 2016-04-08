@@ -1,0 +1,3 @@
+changes
+script->check if bus capacity is 0
+script->deny form submit if bus is full
